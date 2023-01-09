@@ -72,6 +72,8 @@ In the next section, we will explore the folder structure of a lesson.
    type `sandpaper::build_lesson()` in the console if you are not using RStudio)
 3. Open THIS file (`episodes/editing.Rmd`) and add step 4: preview the lesson again.
 
+4. Preview again....
+
 What do you notice?
 
 ::::::::: solution
